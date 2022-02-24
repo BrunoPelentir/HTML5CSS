@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./staula02.css" />
+
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li><a href="#cervejas" target="_blank">Cervejas</a></li>
+            <li><a href="#dose">Doses</a></li>
+            <li><a href="#lanche">Lanches</a></li>
+            <li><a href="#cigarro">Cigarros</a></li>
+            <li><a href="#petisco">Petiscos</a></li>
+
+        </ul>
+    </header>
+    <section> 
+
+        <div class="conteudo" >
+            <div id="cervejas">
+                <p>
+                <h1>Garrafa 600ml</h1>
+                <ul>
+                    <li>Kaiser - 8,00</li>
+
+                    <img src="./imagens/kaiser garrafa.jpg" width="180px" height="180px">
+                    <li>Skol - 9,00</li>
+
+                    <img src="./imagens/skol garrafa.jfif" width="180px" height="180px">
+                    <li>Budwaiser - 9,00</li>
+
+                    <img src="./imagens/budd garrafa.jpg" width="180px" height="180px">
+
+                    </p>
+            </div>
+
+
+
+
+            <p>
+            <h1>Lata</h1>
+            <ul>
+                <li>Kaiser - 4,00</li>
+                <img src="./imagens/kaiser lata.jpg" width="180px" height="180px">
+                <li>Skol - 5,00</li>
+                <img src="./imagens/skol lata.jpg" width="180px" height="180px">
+                <li>Budwaiser - 5,00</li>
+                <img src="./imagens/budd lata.jpg" width="180px" height="180px">
+            </ul>
+            </p>
+
+
+
+            <div id="dose">
+                <p>
+                <h1>Doses</h1>
+                <ul>
+                    <li>51 - P. 2,00 G. 4,00 </li>
+                    <img src="./imagens/51.jfif" width="180px" height="180px">
+                    <li>Smirnoff P. 2,00 G. 4,00</li>
+                    <img src="./imagens/smirnoff.jpg" width="180px" height="180px">
+                    <li>Velho Barreiro- P. 2,00 G. 4,00</li>
+                    <img src="./imagens/velho.jpg" width="180px" height="180px">
+
+                </ul>
+                </p>
+
+            </div>
+
+            <div id="lanche">
+                <p>
+                <h1>Lanches</h1>
+                <ul>
+                    <li>x-salada - 15,00</li>
+                    <img src="./imagens/salada.jpg" width="180px" height="180px">
+                    <li>x-bacon - 17,00</li>
+                    <img src="./imagens/bacon.jfif" width="180px" height="180px">
+                    <li>x-calabresa - 18,00</li>
+                    <img src="./imagens/calabresa.jpg" width="180px" height="180px">
+
+                </ul>
+                </p>
+            </div>
+
+
+            <div id="cigarro">
+                <p>
+                <h1>Cigarros</h1>
+                <ul>
+                    <li>Kaiser - 8,00</li>
+                    <li>Skol - 9,00</li>
+                    <li>Budwaiser - 9,00</li>
+                    <li>Antártica - 9,00</li>
+                    <li>Heineken - 15,00</li>
+                    <li>Devassa - 9,00</li>
+                    <li>Bhramma - 9,00</li>
+                </ul>
+                </p>
+            </div>
+
+
+            <div id="petisco">
+                <p>
+                <h1>Petiscos</h1>
+                <ul>
+                    <li>Kaiser - 8,00</li>
+                    <li>Skol - 9,00</li>
+                    <li>Budwaiser - 9,00</li>
+                    <li>Antártica - 9,00</li>
+                    <li>Heineken - 15,00</li>
+                    <li>Devassa - 9,00</li>
+                    <li>Bhramma - 9,00</li>
+                </ul>
+                </p>
+            </div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi,
+            distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Hic ea sed minima asperiores quibusdam, modi, distinctio
+            iste temporibus iure optio laudantium quo ab vitae et obcaecati aspernatur repellat vero molestias.Lorem
+        
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
