@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    display: grid;
+    grid-template-areas: "header header header header header"
+    "main main  main  main menu"
+    "img1 img2 img3 img4 menu";
+    
+}
+
+
+
+header {
+padding: 20px;
+top: 0;
+position: sticky;
+background-color: rgb(85, 18, 18) ;
+color: aliceblue;
+height: 60px;
+width: 95%;
+border: double black;
+border-width: 20px;
+grid-area: header; 
+
+
+
+
+
+}
+
+header ul {
+    list-style: none;
+    flex-direction: row;
+    justify-content:flex-start;
+    display: flex;
+
+   
+    
+}
+
+header a{
+    color: aliceblue;
+    font-size: larger;
+    text-decoration: none;
+    width: 20%;
+}
+#nome {
+    font-size: 60px;
+    width: 50%;
+    padding-left: 200px;
+    margin-top: -20px;
+}
+.opcao1 {
+    width: 20%;
+}
+nav {
+    grid-area: menu;
+    background-color: rgb(71, 18, 18);
+    border: double black;
+border-width: 20px;
+
+}
+
+.menus {
+    list-style: none;  
+    text-decoration: none;
+    font-size:x-large;  
+    color: aliceblue;
+    
+}
+main{
+    grid-area: main;
+}
+#img1 {
+grid-area: img1;
+}
+#img2 {
+grid-area: img2;
+}
+#img3 {
+grid-area: img3;
+}
+#img4 {
+grid-area: img4;
+}
+#imagem {
+    width: 75%;
+    height: 550px;
+    padding: 50px;
+}
