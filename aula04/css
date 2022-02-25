@@ -4,6 +4,7 @@ body {
     grid-template-areas: "header header header header header"
     "main main  main  main menu"
     "img1 img2 img3 img4 menu";
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     
 }
 
@@ -54,6 +55,15 @@ header a{
 }
 nav {
     grid-area: menu;
+   
+
+
+
+
+
+}
+nav ul{
+    position: fixed;
     background-color: rgb(71, 18, 18);
     border: double black;
 border-width: 20px;
@@ -65,6 +75,10 @@ border-width: 20px;
     text-decoration: none;
     font-size:x-large;  
     color: aliceblue;
+    height: 90px;
+    padding-top: 60px;
+    padding-left: 20px;
+   
     
 }
 main{
