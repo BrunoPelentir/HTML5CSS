@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./aula04 v2.css">
+
+
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li id="nome">Villa's Bar</li>
+            <li class="opcao1"><a href="">Reservas</a></li>
+            <li class="opcao1"><a href="">Contatos</a></li>
+        </ul>
+
+
+    </header>
+    <nav>
+        <ul>
+            <li class="menus">Entradas</li>
+            <li class="menus">Petiscos</li>
+            <li class="menus">Pratos</li>
+            <li class="menus">Lanches</li>
+            <li class="menus">Sobremesas</li>
+            <li class="menus">Bebidas</li>
+        </ul>
+    </nav>
+
+
+
+
+
+
+    <main>
+        <img src="./aula4.html/img-restaurante.jpg" id="imagem">
+    </main>
+    <div id="img1">imagem</div>
+    <div id="img2">imagem</div>
+    <div id="img3">imagem</div>
+    <div id="img4">imagem</div>
+</body>
+
+</html>
